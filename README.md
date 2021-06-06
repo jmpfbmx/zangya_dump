@@ -1,0 +1,14 @@
+# zangya_bq-user 10 QKQ1.200216.002 664 release-keys
+- manufacturer: 
+- platform: sdm660
+- codename: zangya_sprout
+- flavor: zangya_bq-user
+- release: 10
+- id: QKQ1.200216.002
+- incremental: 664
+- tags: release-keys
+- fingerprint: bq/zangya_bq/zangya_sprout:10/QKQ1.200216.002/664:user/release-keys
+- is_ab: true
+- brand: bq
+- branch: zangya_bq-user-10-QKQ1.200216.002-664-release-keys
+- repo: bq_zangya_sprout_dump
